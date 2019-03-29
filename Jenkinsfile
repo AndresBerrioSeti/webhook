@@ -19,7 +19,7 @@ pipeline {
         }
 	stage('Saludo') {
             steps {
-                echo 'Saludando a william y mateo....'
+                echo 'Saludando a devops....'
             }
         }
     }
