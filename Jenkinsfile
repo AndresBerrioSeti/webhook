@@ -19,7 +19,7 @@ pipeline {
         }
 	stage('Saludo') {
             steps {
-                echo 'Saludando a Andres B....'
+                echo 'Saludando a Andres BE....'
             }
         }
     }
